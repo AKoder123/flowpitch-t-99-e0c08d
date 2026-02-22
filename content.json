@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "deckId": "t-99",
+    "title": "Studying 99",
+    "theme": "green"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "How to Study Effectively (Without Studying More Hours)",
+      "subheadline": "Studying 99"
+    },
+    {
+      "type": "content",
+      "headline": "The Problem",
+      "bullets": [
+        "Most people study, but don’t learn.",
+        "Rereading notes feels productive, but doesn’t stick.",
+        "Highlighting builds familiarity, not fluency.",
+        "Learning sticks when you retrieve and apply."
+      ],
+      "note": "If studying feels easy, it’s probably not working."
+    },
+    {
+      "type": "content",
+      "headline": "The 3 Rules of Effective Study",
+      "bullets": [
+        "Active recall: force your brain to retrieve.",
+        "Spaced repetition: revisit over time, not cramming.",
+        "Deliberate practice: target weak spots, not comforts."
+      ],
+      "note": "These three are the difference between ‘I saw it’ and ‘I can do it.’"
+    },
+    {
+      "type": "content",
+      "headline": "Active Recall: What to Do",
+      "bullets": [
+        "Blurting: close notes, write all you remember, check gaps.",
+        "Practice questions: exam‑style problems, not summaries.",
+        "Teach‑back: explain concepts like you tutor someone.",
+        "Example: answer 10 questions, mark and fix errors."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Spacing: How to Schedule",
+      "bullets": [
+        "Spacing: short sessions over days beat cramming.",
+        "Day 0: learn.",
+        "Day 1: recall.",
+        "Day 3: recall again.",
+        "Day 7: mixed practice."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Interleaving: How to Mix Practice",
+      "bullets": [
+        "Mix topics within a study block.",
+        "Don’t grind one topic for hours.",
+        "Feels harder; produces stronger learning.",
+        "Helps you choose methods under pressure."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "The Feedback Loop: Improve Fast",
+      "bullets": [
+        "What did I miss? Why?",
+        "What pattern keeps repeating?",
+        "What will I do next session?",
+        "Rule: mistakes become your study plan.",
+        "Spend 70% on weak areas; 30% on review."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "A Simple 45‑Minute Study Template",
+      "bullets": [
+        "0–5: set a specific goal.",
+        "5–25: active recall or questions.",
+        "25–35: mark and log errors.",
+        "35–45: reattempt errors; schedule next review."
+      ],
+      "note": "No fancy motivation needed—just a system."
+    },
+    {
+      "type": "closing",
+      "headline": "Make Technique, Not Time, Your Advantage",
+      "subheadline": "Swap rereading for retrieval, then space it."
+    }
+  ]
+}
